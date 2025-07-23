@@ -112,7 +112,7 @@ Pros
 - [x] Read products (filter by category)
 - [x] Add to cart (global state with Zustand)
 - [x] Generate QRIS (Xendit)
-- [ ] Handle payment (webhook -> NGROK | localtunnel)
+- [x] Handle payment (webhook -> NGROK | localtunnel)
 
 Webhook -> POST request from Xendit sent to the Next.js API when a payment is made
 
